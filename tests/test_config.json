@@ -1,0 +1,9 @@
+{
+    "key_a": {
+        "attr1": "value1",
+        "attr2": "value2"
+    },
+    "key_b": {
+        "attr1": 1
+    }
+}

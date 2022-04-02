@@ -1,0 +1,9 @@
+{
+    "key_a": {
+        "attr2": "new_value",
+        "attr_secret": "secret_value"
+    },
+    "key_c": {
+        "app_key": "sensitive_value"
+    }
+}
